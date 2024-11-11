@@ -1,3 +1,6 @@
+Nama : Gugus Sentanu
+Nim  : 2205101143
+
 # SEMANTIC-HTML
 Latihan Praktikum Semantic HTML
 
